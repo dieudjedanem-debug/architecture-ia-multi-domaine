@@ -10,7 +10,7 @@ Les entreprises déploient des modèles et des agents d'IA dans des environnemen
 Objectifs
 - Cartographier les briques d'une plateforme IA d'entreprise : orchestration, registre de modèles, données, identités, observabilité, coûts.
 - Concevoir une architecture unifiée qui rende un workload IA portable et gouvernable sur les domaines retenus, avec les critères de réversibilité.
-- Démontrer le déploiement d'un même workload dans au moins deux domaines, sans le réécrire.
+- Démontrer le déploiement d'un même workload dans au moins deux domaines, sans le réécrire
 
 Livrables attendus
 1. La présentation de soutenance.
